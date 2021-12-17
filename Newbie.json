@@ -2,7 +2,8 @@
     "manifest": {
         "author": "Newbomb101#6135",
         "name": "Newbie\n",
-        "version": "1.0.0"
+        "version": "1.0.1",
+        "updater": "https:\/\/raw.githubusercontent.com\/theoneandonlyvan\/NewbieTheme\/main\/Newbie.json"
     },
     "background": {},
     "fonts": {},
