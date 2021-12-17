@@ -1,0 +1,27 @@
+{
+    "manifest": {
+        "author": "Newbomb101#6135",
+        "name": "Newbie\n",
+        "version": "1.0.0"
+    },
+    "background": {},
+    "fonts": {},
+    "simple_colors": {
+        "background": -16777216,
+        "background_secondary": -15921907,
+        "active_channel": 1465589878,
+        "input_background": -14474461,
+        "mention_highlight": -1986456565
+    },
+    "colors": {
+        "primary_dark_300": -16711884,
+        "primary_dark_360": -10805130,
+        "primary_dark_400": 2063663084,
+        "uikit_btn_bg_color_selector_brand": -561839873
+    },
+    "drawable_tints": {
+        "drawable_button_grey": -1303673100,
+        "drawable_button_red": -10172242
+    },
+    "raws": {}
+}
